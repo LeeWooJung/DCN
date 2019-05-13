@@ -1,3 +1,5 @@
+2019-05-13 Woojung Lee
+-----------------------------
 This is an introduction of the code developed for the Deep Clustering Network (DCN). Please direct your emails to 
 
 Bo Yang, yang4173@umn.edu
